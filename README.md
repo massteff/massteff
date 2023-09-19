@@ -1,4 +1,4 @@
-# Bonjour, je suis [Votre Nom]
+# Bonjour,
 
 Bienvenue sur mon profil GitHub ! Je suis passionné(e) par la programmation, la technologie et le partage de connaissances. Voici un aperçu de qui je suis et de ce que je fais :
 
